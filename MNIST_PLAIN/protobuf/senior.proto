@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+message InputVector {
+  repeated double values = 1;
+}
+
+message PredictionCKKS {
+  repeated double values = 1;
+}
+
+message PredictionBFV {
+  repeated int32 values = 1;
+}

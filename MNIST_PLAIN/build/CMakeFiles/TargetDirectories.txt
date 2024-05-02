@@ -1,0 +1,6 @@
+/home/senior/Desktop/Senior-Project/MNIST_PLAIN/build/CMakeFiles/mnist_plain.dir
+/home/senior/Desktop/Senior-Project/MNIST_PLAIN/build/CMakeFiles/edit_cache.dir
+/home/senior/Desktop/Senior-Project/MNIST_PLAIN/build/CMakeFiles/rebuild_cache.dir
+/home/senior/Desktop/Senior-Project/MNIST_PLAIN/build/lib/CMakeFiles/PROJECT_LIB.dir
+/home/senior/Desktop/Senior-Project/MNIST_PLAIN/build/lib/CMakeFiles/edit_cache.dir
+/home/senior/Desktop/Senior-Project/MNIST_PLAIN/build/lib/CMakeFiles/rebuild_cache.dir

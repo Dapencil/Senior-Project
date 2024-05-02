@@ -1,0 +1,6 @@
+/home/senior/Desktop/Senior-Project/IRIS_BFV_Square_Square/build/CMakeFiles/assign11.dir
+/home/senior/Desktop/Senior-Project/IRIS_BFV_Square_Square/build/CMakeFiles/edit_cache.dir
+/home/senior/Desktop/Senior-Project/IRIS_BFV_Square_Square/build/CMakeFiles/rebuild_cache.dir
+/home/senior/Desktop/Senior-Project/IRIS_BFV_Square_Square/build/lib/CMakeFiles/PROJECT_LIB.dir
+/home/senior/Desktop/Senior-Project/IRIS_BFV_Square_Square/build/lib/CMakeFiles/edit_cache.dir
+/home/senior/Desktop/Senior-Project/IRIS_BFV_Square_Square/build/lib/CMakeFiles/rebuild_cache.dir
